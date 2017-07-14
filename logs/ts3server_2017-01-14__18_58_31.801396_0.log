@@ -1,0 +1,114 @@
+ï»¿2017-01-14 18:58:31.803396|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2017-01-14 18:58:31.813396|INFO    |ServerLibPriv |   |SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 64bit
+2017-01-14 18:58:31.813396|INFO    |ServerLibPriv |   |Using hardware aes
+2017-01-14 18:58:31.824397|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-01-14 18:58:31.825397|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-01-14 18:58:31.833397|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-01-14 18:58:31.881400|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-01-14 18:58:33.215476|INFO    |              |   |Puzzle precompute time: 1189
+2017-01-14 18:58:33.222477|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-01-14 18:58:33.341484|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.341484|ERROR   |              |   |Could not open default UDP connection for weblist
+2017-01-14 18:58:33.465491|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-01-14 18:58:33.481492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.482492|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-01-14 18:58:33.482492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.482492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.483492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.483492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.483492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.486492|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.499493|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.500493|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.502493|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.515494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.515494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.521494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.521494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.523494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.523494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.524494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.524494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.524494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.526494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.527494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.527494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.527494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.528494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.528494|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.530495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.532495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.532495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.533495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.533495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.533495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.533495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.535495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.535495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.537495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.540495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.542495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.543495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.543495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.544495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.544495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.546495|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.550496|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.552496|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.559496|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.560496|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.561496|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.566497|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.569497|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.570497|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.573497|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.597498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.597498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.597498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.598498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.598498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.598498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.599498|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.600499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.600499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.601499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.601499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.601499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.602499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.603499|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.618500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.618500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.619500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.619500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.627500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.629500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.629500|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.637501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.638501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.642501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.643501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.643501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.643501|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.666502|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.669502|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.670503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.670503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.671503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.671503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.671503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.671503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.672503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.674503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.675503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.677503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.677503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.678503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.679503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.679503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.679503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.679503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.680503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.680503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.680503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-14 18:58:33.680503|ERROR   |              |   |Could not open/bind UDP connection on 0.0.0.0 for weblist. Using default
+2017-01-14 18:58:33.680503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001

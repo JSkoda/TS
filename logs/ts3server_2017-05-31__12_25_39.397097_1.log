@@ -1,0 +1,4 @@
+﻿2017-05-31 12:25:40.451436|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-05-31 13:34:57.363951|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2017-05-31 13:39:05.182473|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-05-31 20:44:48.435253|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:130) with values (value:100) was added by '_JK_'(id:2) to channel 'Administration'(id:14)

@@ -1,0 +1,113 @@
+ï»¿2016-12-29 14:16:26.870892|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2016-12-29 14:16:26.875893|INFO    |ServerLibPriv |   |SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 64bit
+2016-12-29 14:16:26.875893|INFO    |ServerLibPriv |   |Using hardware aes
+2016-12-29 14:16:26.891894|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2016-12-29 14:16:26.892894|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2016-12-29 14:16:26.917895|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-12-29 14:16:26.963898|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2016-12-29 14:16:28.462984|INFO    |              |   |Puzzle precompute time: 1375
+2016-12-29 14:16:28.472984|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2016-12-29 14:16:28.736999|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.739999|ERROR   |              |   |Could not open default UDP connection for weblist
+2016-12-29 14:16:28.787002|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2016-12-29 14:16:28.789002|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2016-12-29 14:16:28.800003|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.804003|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.809003|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.813004|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.817004|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.822004|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.826004|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.832005|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.836005|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.841005|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.846005|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.851006|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.855006|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.863006|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.866007|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.874007|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.878007|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.885008|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.890008|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.895008|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.902009|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.928010|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.937011|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.983013|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.987013|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.992014|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:28.996014|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.001014|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.005015|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.010015|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.014015|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.027016|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.031016|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.036016|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.043017|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.048017|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.052017|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.057018|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.062018|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.067018|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.072018|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.076019|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.081019|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.085019|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.090019|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.095020|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.099020|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.104020|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.108020|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.114021|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.118021|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.123021|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.128022|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.133022|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.137022|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.142022|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.147023|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.152023|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.156023|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.161023|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.167024|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.173024|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.176024|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.181025|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.186025|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.191025|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.195025|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.200026|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.205026|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.209026|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.214026|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.218027|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.223027|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.227027|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.233028|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.237028|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.244028|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.248028|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.253029|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.258029|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.261029|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.267030|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.274030|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.279030|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.284030|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.296031|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.300031|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.305032|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.309032|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.313032|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.318032|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.322033|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.328033|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.333033|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.337034|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.343034|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.347034|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.351034|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.356035|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-29 14:16:29.356035|ERROR   |              |   |Could not open/bind UDP connection on 0.0.0.0 for weblist. Using default

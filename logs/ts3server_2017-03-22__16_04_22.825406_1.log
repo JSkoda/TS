@@ -1,0 +1,4 @@
+﻿2017-03-22 16:04:23.665675|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-22 20:26:09.912243|INFO    |VirtualServer |1  |client 'Rekklesss'(id:15) was added to channelgroup 'Channel Admin'(id:5) by client '_JK_'(id:2) in channel 'Herňa'(id:8)
+2017-03-22 20:26:16.263837|INFO    |VirtualServer |1  |client (id:15) was removed from servergroup 'Server Admin'(id:6) by client '_JK_'(id:2)
+2017-03-22 21:47:40.823516|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0

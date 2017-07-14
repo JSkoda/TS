@@ -1,0 +1,10 @@
+﻿2017-03-18 14:09:01.959881|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-18 18:36:29.903613|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2017-03-18 20:01:15.313968|INFO    |VirtualServer |1  |client (id:2) was removed from servergroup 'Šľachta'(id:10) by client '_JK_'(id:2)
+2017-03-18 22:33:09.472654|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-175526124) was added by '_JK_'(id:2) to channel 'LOL'(id:13)
+2017-03-18 22:37:42.765302|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-1857010159) was added by '_JK_'(id:2) to channel 'GTA'(id:11)
+2017-03-18 22:43:02.960026|INFO    |VirtualServer |1  |servergroup 'Šľachta'(id:10) was deleted by '_JK_'(id:2)
+2017-03-18 22:43:19.495918|INFO    |VirtualServer |1  |servergroup 'Krocan'(id:9) was deleted by '_JK_'(id:2)
+2017-03-18 22:49:00.051209|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-1527968303, negated:0, skipchannel:0) was added by '_JK_'(id:2) to servergroup 'Server Admin'(id:6)
+2017-03-18 22:49:22.334125|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:1750792869) was added by '_JK_'(id:2) to channelgroup 'Channel Admin'(id:5)
+2017-03-18 22:53:47.035516|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:582334931, negated:0, skipchannel:0) was added by '_JK_'(id:2) to servergroup 'Server Admin'(id:6)

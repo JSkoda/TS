@@ -1,0 +1,8 @@
+﻿2016-09-17 13:15:34.735149|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2016-09-17 13:15:34.736149|WARNING |VirtualServer |1  |--------------------------------------------------------
+2016-09-17 13:15:34.736149|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2016-09-17 13:15:34.736149|WARNING |VirtualServer |1  |token=2jLN2ea7qtMZDmMHbzndv98dbZoUTK2mfTlbDRSZ
+2016-09-17 13:15:34.736149|WARNING |VirtualServer |1  |--------------------------------------------------------
+2016-09-17 13:19:25.601354|INFO    |VirtualServer |1  |client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2016-09-17 13:19:25.602354|INFO    |VirtualServer |1  |client '_JK_'(id:2) used privilege key '2jLN2ea7qtMZDmMHbzndv98dbZoUTK2mfTlbDRSZ' and was added to servergroup 'Server Admin'(id:6)
+2016-09-17 22:07:59.869306|INFO    |VirtualServerBase|1  |stopped

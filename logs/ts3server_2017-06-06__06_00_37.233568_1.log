@@ -1,0 +1,3 @@
+﻿2017-06-06 06:00:40.907458|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-06-06 16:10:48.131081|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-06-06 16:57:44.115264|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Normal'(id:7) by client '_JK_'(id:2)

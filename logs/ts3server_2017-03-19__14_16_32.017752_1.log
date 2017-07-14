@@ -1,0 +1,11 @@
+﻿2017-03-19 14:16:32.956053|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-19 17:14:24.410360|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-817477560) was added by '_JK_'(id:2) to channel 'Administration'(id:14)
+2017-03-19 17:14:45.353976|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:75) was added by '_JK_'(id:2) to channel 'Administration'(id:14)
+2017-03-19 17:20:08.904236|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-1959341604, negated:0, skipchannel:0) was added by '_JK_'(id:2) to servergroup 'Guest'(id:8)
+2017-03-19 17:23:17.630501|INFO    |VirtualServer |1  |client (id:4) was removed from servergroup 'Normal'(id:7) by client '_JK_'(id:2)
+2017-03-19 17:32:36.964867|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by '_JK_'(id:2) for client (id:2) and channel 'Administration'(id:14)
+2017-03-19 19:32:02.781906|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-416178459, negated:0, skipchannel:0) was added by '_JK_'(id:2) to servergroup 'Normal'(id:7)
+2017-03-19 19:32:57.145621|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Normal'(id:7) by client '_JK_'(id:2)
+2017-03-19 19:32:59.778649|INFO    |VirtualServer |1  |client (id:21) was added to servergroup 'Normal'(id:7) by client '_JK_'(id:2)
+2017-03-19 19:33:02.695451|INFO    |VirtualServer |1  |client (id:19) was added to servergroup 'Normal'(id:7) by client '_JK_'(id:2)
+2017-03-19 19:38:47.783397|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:-1959341604) was added by '_JK_'(id:2) to channelgroup 'Guest'(id:8)

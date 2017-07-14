@@ -1,0 +1,3 @@
+﻿2017-05-25 06:46:44.745638|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-05-25 17:21:24.908265|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:130) with values (value:100) was added by '_JK_'(id:2) to channel 'Team 1'(id:15)
+2017-05-25 17:22:12.025937|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:130) with values (value:100) was added by '_JK_'(id:2) to channel 'Team 2'(id:16)

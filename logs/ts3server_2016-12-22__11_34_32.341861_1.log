@@ -1,0 +1,3 @@
+﻿2016-12-22 11:34:33.351919|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2016-12-22 19:38:46.659151|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'TheMartes'(id:16) for client (id:16) and channel 'H1Z1 King Of The Kill'(id:6)
+2016-12-22 20:31:54.419480|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'TheMartes'(id:16) for client (id:2) and channel 'H1Z1 King Of The Kill'(id:6)

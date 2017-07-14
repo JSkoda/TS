@@ -1,0 +1,2 @@
+﻿2016-12-29 14:16:28.780002|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2016-12-29 19:41:11.728522|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by '_JK_'(id:2) for client (id:2) and channel 'CS:GO'(id:3)

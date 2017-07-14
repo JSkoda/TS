@@ -1,0 +1,13 @@
+ï»¿2017-01-22 18:53:52.580878|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2017-01-22 18:53:52.583879|INFO    |ServerLibPriv |   |SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 64bit
+2017-01-22 18:53:52.583879|INFO    |ServerLibPriv |   |Using hardware aes
+2017-01-22 18:53:52.599880|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-01-22 18:53:52.599880|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-01-22 18:53:52.608880|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-01-22 18:53:52.699885|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-01-22 18:53:54.348980|INFO    |              |   |Puzzle precompute time: 1483
+2017-01-22 18:53:54.359980|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-01-22 18:53:54.401983|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (Žiadny takýto hostite¾ nie je známy. ) 11001
+2017-01-22 18:53:54.401983|ERROR   |              |   |Could not open default UDP connection for weblist
+2017-01-22 18:53:54.461986|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-01-22 18:53:54.466986|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011

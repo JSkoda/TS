@@ -1,0 +1,13 @@
+﻿2017-04-01 08:53:38.676125|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2017-04-01 08:53:38.702132|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2017-04-01 08:53:38.702132|INFO    |ServerLibPriv |   |Using hardware aes
+2017-04-01 08:53:38.704134|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-04-01 08:53:38.704134|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-04-01 08:53:38.704134|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-04-01 08:53:38.714137|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-04-01 08:53:39.586416|INFO    |              |   |Puzzle precompute time: 848
+2017-04-01 08:53:39.588418|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-04-01 08:53:39.588418|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-04-01 08:53:39.714457|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-04-01 08:53:39.850501|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-04-01 08:53:39.852502|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011

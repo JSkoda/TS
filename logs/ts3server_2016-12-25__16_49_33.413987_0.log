@@ -1,0 +1,13 @@
+ï»¿2016-12-25 16:49:33.416987|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2016-12-25 16:49:33.421987|INFO    |ServerLibPriv |   |SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 64bit
+2016-12-25 16:49:33.421987|INFO    |ServerLibPriv |   |Using hardware aes
+2016-12-25 16:49:33.436988|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2016-12-25 16:49:33.437988|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2016-12-25 16:49:33.450989|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-12-25 16:49:33.510993|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2016-12-25 16:49:34.877071|INFO    |              |   |Puzzle precompute time: 1178
+2016-12-25 16:49:34.884071|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2016-12-25 16:49:34.988077|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11004 (Požadovaný názov je platný, no nenašli sa žiadne údaje požadovaného typu. ) 11004
+2016-12-25 16:49:34.988077|ERROR   |              |   |Could not open default UDP connection for weblist
+2016-12-25 16:49:35.014078|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2016-12-25 16:49:35.016079|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011

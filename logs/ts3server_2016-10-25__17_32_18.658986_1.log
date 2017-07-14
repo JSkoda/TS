@@ -1,0 +1,2 @@
+﻿2016-10-25 17:32:19.551037|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2016-10-25 17:56:17.808301|INFO    |VirtualServer |1  |client (id:15) was added to servergroup 'Server Admin'(id:6) by client '_JK_'(id:2)

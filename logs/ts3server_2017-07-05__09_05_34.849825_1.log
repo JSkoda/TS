@@ -1,0 +1,2 @@
+﻿2017-07-05 09:05:35.554051|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-07-05 17:32:30.371220|INFO    |VirtualServer |1  |client (id:41) was added to servergroup 'Normal'(id:7) by client '_JK_'(id:2)

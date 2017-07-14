@@ -1,0 +1,2 @@
+﻿2017-06-08 13:09:50.918268|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-06-08 18:23:19.063516|INFO    |VirtualServer |1  |client 'Rekklesss'(id:15) was added to channelgroup 'Guest'(id:8) by client '_JK_'(id:2) in channel 'Team 1'(id:15)

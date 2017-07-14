@@ -1,0 +1,4 @@
+﻿2017-03-21 15:34:32.727922|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-21 16:21:25.606262|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2017-03-21 16:36:33.570110|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:1637127240) was added by '_JK_'(id:2) to channelgroup 'Guest'(id:8)
+2017-03-21 16:36:37.771645|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) was deleted by '_JK_'(id:2) from channelgroup 'Guest'(id:8)

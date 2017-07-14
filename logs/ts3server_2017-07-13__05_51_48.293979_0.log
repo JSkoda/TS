@@ -1,0 +1,41 @@
+﻿2017-07-13 05:51:48.297981|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.4 (2016-08-29 12:39:04)
+2017-07-13 05:51:48.317987|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (15063) x64 (AMD or Intel) Binary: 64bit
+2017-07-13 05:51:48.317987|INFO    |ServerLibPriv |   |Using hardware aes
+2017-07-13 05:51:48.364002|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-07-13 05:51:48.366002|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-07-13 05:51:48.386008|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-07-13 05:51:48.472037|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-07-13 05:51:49.758077|INFO    |              |   |Puzzle precompute time: 1056
+2017-07-13 05:51:49.830100|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-07-13 05:51:51.016480|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-07-13 05:51:51.016480|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-07-13 09:00:01.759795|ERROR   |              |   |error reading tcp socket An existing connection was forcibly closed by the remote host
+2017-07-13 18:52:54.797194|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:52:55.797154|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:52:56.798115|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:52:57.799075|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:52:58.800036|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:52:59.801997|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:00.802958|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:01.805920|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:02.804879|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:03.805839|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:04.806800|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:05.808761|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:06.809721|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:07.810682|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:08.811643|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:09.812603|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:10.812563|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:11.813523|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:12.815485|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:13.816445|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:14.817406|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:15.817365|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:16.818326|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:17.819286|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:18.820247|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:19.821208|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:20.824170|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:21.824129|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
+2017-07-13 18:53:22.825090|ERROR   |UDPServers    |   |No service is operating at the destination network endpoint on the remote system
